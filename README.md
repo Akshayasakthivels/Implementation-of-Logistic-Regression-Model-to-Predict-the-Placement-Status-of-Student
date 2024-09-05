@@ -62,12 +62,16 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+
 ![WhatsApp Image 2024-09-05 at 16 25 44_2b25c949](https://github.com/user-attachments/assets/c5782944-3943-467d-b912-0f39c1d725a2)
+
 
 ![WhatsApp Image 2024-09-05 at 16 26 12_7166c9bf](https://github.com/user-attachments/assets/c6c5df57-66ae-4504-98de-792b2561e8a6)
 
+
+
 ![WhatsApp Image 2024-09-05 at 16 26 44_87c212ef](https://github.com/user-attachments/assets/81207e4a-89bf-43e1-92c4-1a5fe0beec66)
+
 
 
 ## Result:
